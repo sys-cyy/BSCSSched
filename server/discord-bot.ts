@@ -370,7 +370,7 @@ export class DiscordBot {
       )
       .addFields({
         name: "🔗 View Full Schedule",
-        value: "[Click here](https://schedulebot.up.railway.app)",
+        value: "[Click here](https://bscssched-production.up.railway.app)",
       })
       .setTimestamp();
 
